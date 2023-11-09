@@ -1,5 +1,6 @@
 //this is a class for making cans of pop objects
 class Can {
+  float newFloat = 12; //sourcetree
   float xPosition; //the position of our can in x
   float yPosition; //and y
   float xSpeed; //the speed of our can in x
