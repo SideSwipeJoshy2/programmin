@@ -1,6 +1,6 @@
 //a class for making button objects
 class Button {
-  float xPosition;
+  float xPosition; 
   float yPosition;
   float w;
   float h;
@@ -8,6 +8,7 @@ class Button {
   color mouseOver;
   color mouseDown;
   color disabled;
+  int key;
 
   //the constructor
   Button(float tempX, float tempY, float tempW, float tempH, color tempColor) {
